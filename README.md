@@ -1,4 +1,4 @@
-# Albayt Alaamir – A Sudanese-Inspired Hotel Website 🇸🇩✨
+# Albayt Alaamir – A Sudanese-Inspired Hotel Website ✨
 
 Welcome to **Albayt Alaamir**, a visionary hotel website project created as the final submission for the **Tech Nexus Bootcamp**.
 
